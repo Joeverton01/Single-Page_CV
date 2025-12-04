@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center; /* horizontal */
+  align-items: center;     /* vertical */
+  
+}
+
+main {
+  border: 2px solid black;
+  padding: 20px;
+}
+
+
+h1 {
+    color:rgb(41, 83, 161);
+}
+h2,h3 {
+    color: blueviolet;
+}
+#git {
+    padding: 10px;
+}
